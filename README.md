@@ -38,19 +38,22 @@ Lo mismo sucede en el campo 'TELÉFONO', el usuario tiene que introducir un núm
 Una vez el usuario introduzca los datos correctamente y los confirme, dicho contacto aparecerá en la tabla (agenda).
 
 ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgAñadirCompleto.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgVistaTablaContacto.png)
+
 
 Si quisiera el usuario modificar los datos de un contacto de su agenda , simplemente seleccionando el contacto a modificar y haciendo _click_ en el botón de editar, se abrirá una nueva ventana con los datos actuales y podrá modificar tanto el nombre como el teléfono.
 
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgVistaTablaSelect.png)
 ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgModif.png) 
 
-Una vez modificados los datos del contacto haciendo _click_ en ![](RackMultipart20231128-1-wtcwyf_html_eb4a7c45affb5027.png) el contacto saldrá actualizado en la tabla.
+Una vez modificados los datos del contacto haciendo _click_ en ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgVB.png) el contacto saldrá actualizado en la tabla.
 
-![](RackMultipart20231128-1-wtcwyf_html_1e0505ffe2fa3209.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgVistaTablaContacto.png)
 
-Por último, si el usuario desea borrar un contacto de la agenda simplemente seleccionando el contacto y haciendo _click_ en el botón ![](RackMultipart20231128-1-wtcwyf_html_94aba50e54258e74.png) saldrá un mensaje de advertencia
+Por último, si el usuario desea borrar un contacto de la agenda simplemente seleccionando el contacto y haciendo _click_ en el botón ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgDelete1.png) saldrá un mensaje de advertencia.
 
-![](RackMultipart20231128-1-wtcwyf_html_f651b416df2e599b.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgConfirmDelete.png)
 
 En caso de responder afirmativamente, el contacto se eliminará por completo.
 
-![](RackMultipart20231128-1-wtcwyf_html_3714f65a9b35603d.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgInicial.png)
