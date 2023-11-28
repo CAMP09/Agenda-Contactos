@@ -4,14 +4,12 @@ La ventana principal de nuestra aplicación estará diseñada de la siguiente ma
 ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgCruz.png)
 
 En la cabecera superior saldrá reflejado tanto el nombre de la aplicación "AGENDA CONTACTOS" como el icono de la misma.
-
 En el panel principal encontraremos una tabla dónde se registrarán los contactos que queramos añadir a nuestra agenda.
-
 Debajo de la tabla habrán 3 botones, uno para añadir un contacto nuevo, otro para editar o modificar un contacto existente y por último un botón para eliminar un contacto de la agenda. Al pasar el ratón por encima del icono de cada botón aparece un mensaje con el tipo de función que realiza el botón.
 
-![](RackMultipart20231128-1-wtcwyf_html_a11fa6ed0d131b41.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/img3Iconos.png)
 
-![](RackMultipart20231128-1-wtcwyf_html_81581156a8ccf2ce.png) Botón que permite al usuario añadir un contacto nuevo.
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgAdd.png) Botón que permite al usuario añadir un contacto nuevo.
 
 ![](RackMultipart20231128-1-wtcwyf_html_678e740b192207a6.png) Botón que permite modificar un contacto de la agenda ya existente.
 
