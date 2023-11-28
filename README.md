@@ -2,7 +2,7 @@
 La ventana principal de nuestra aplicación estará diseñada de la siguiente manera.
 
 ![](RackMultipart20231128-1-wtcwyf_html_6430b022809c554e.png)
-
+https://raw.githubusercontent.com/CAMP09/Agenda-Contactos-/Aspose.Words.145aeef1-8261-4149-b0a0-f32ad02eeaed.001.png
 En la cabecera superior saldrá reflejado tanto el nombre de la aplicación "AGENDA CONTACTOS" como el icono de la misma.
 
 En el panel principal encontraremos una tabla dónde se registrarán los contactos que queramos añadir a nuestra agenda.
