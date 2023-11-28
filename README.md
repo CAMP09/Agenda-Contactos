@@ -1,7 +1,7 @@
 # Agenda-Contactos-
 La ventana principal de nuestra aplicación estará diseñada de la siguiente manera.
 
-![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgCruz.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgInicial.png)
 
 En la cabecera superior saldrá reflejado tanto el nombre de la aplicación "AGENDA CONTACTOS" como el icono de la misma.
 En el panel principal encontraremos una tabla dónde se registrarán los contactos que queramos añadir a nuestra agenda.
