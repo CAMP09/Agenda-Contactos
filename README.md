@@ -26,23 +26,22 @@ Todos los campos tienen que estar rellenados correctamente para que el usuario p
 El campo 'NOMBRE' sólo puede contener letras, sino saldrá un mensaje informando del error.
 
 ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgLetras.png)
-![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgAdd.png)
 
 Lo mismo sucede en el campo 'TELÉFONO', el usuario tiene que introducir un número de teléfono de 9 cifras.
 
-![](RackMultipart20231128-1-wtcwyf_html_e71dd87361d5465d.png) ![](RackMultipart20231128-1-wtcwyf_html_be2fcdfe5065df79.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgTelefono9.png) 
 
-![](RackMultipart20231128-1-wtcwyf_html_6074b92928bf79d3.png) Botón que permite al usuario confirmar que los datos introducidos son correctos.
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgVB.png) Botón que permite al usuario confirmar que los datos introducidos son correctos.
 
-![](RackMultipart20231128-1-wtcwyf_html_14973b71cc2b96c0.png) Botón que permite borrar o cancelar los datos introducidos por el usuario.
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgCruz.png) Botón que permite borrar o cancelar los datos introducidos por el usuario.
 
 Una vez el usuario introduzca los datos correctamente y los confirme, dicho contacto aparecerá en la tabla (agenda).
 
-![](RackMultipart20231128-1-wtcwyf_html_de3da24f45fdcb54.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgAñadirCompleto.png)
 
 Si quisiera el usuario modificar los datos de un contacto de su agenda , simplemente seleccionando el contacto a modificar y haciendo _click_ en el botón de editar, se abrirá una nueva ventana con los datos actuales y podrá modificar tanto el nombre como el teléfono.
 
-![](RackMultipart20231128-1-wtcwyf_html_52dffdd35c6379b3.png) ![](RackMultipart20231128-1-wtcwyf_html_7ae3c5c66a682919.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgModif.png) 
 
 Una vez modificados los datos del contacto haciendo _click_ en ![](RackMultipart20231128-1-wtcwyf_html_eb4a7c45affb5027.png) el contacto saldrá actualizado en la tabla.
 
