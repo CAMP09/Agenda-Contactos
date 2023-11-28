@@ -11,21 +11,22 @@ Debajo de la tabla habrán 3 botones, uno para añadir un contacto nuevo, otro p
 
 ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgAdd.png) Botón que permite al usuario añadir un contacto nuevo.
 
-![](RackMultipart20231128-1-wtcwyf_html_678e740b192207a6.png) Botón que permite modificar un contacto de la agenda ya existente.
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgEdit.png) Botón que permite modificar un contacto de la agenda ya existente.
 
-![](RackMultipart20231128-1-wtcwyf_html_a56bef7724601531.png) Botón que permite eliminar un contacto de la agenda.
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgDelete.png) Botón que permite eliminar un contacto de la agenda.
 
 Al pulsar el botón "añadir" se abre una nueva ventana, donde el usuario tiene que introducir un nombre y un número de teléfono.
 
-![](RackMultipart20231128-1-wtcwyf_html_169a21089397a1c0.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgNuevoContacto.png)
 
 Todos los campos tienen que estar rellenados correctamente para que el usuario pueda añadir el contacto a su agenda. En caso contrario la aplicación muestra una advertencia del tipo de error o campo que no está correctamente introducido.
 
-![](RackMultipart20231128-1-wtcwyf_html_fcf8d688857377da.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgCamposVacios.png)
 
 El campo 'NOMBRE' sólo puede contener letras, sino saldrá un mensaje informando del error.
 
-![](RackMultipart20231128-1-wtcwyf_html_980a72a1560fb903.png) ![](RackMultipart20231128-1-wtcwyf_html_17c417e1f2d1e37a.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgLetras.png)
+![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgAdd.png)
 
 Lo mismo sucede en el campo 'TELÉFONO', el usuario tiene que introducir un número de teléfono de 9 cifras.
 
