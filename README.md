@@ -1,4 +1,4 @@
-# Agenda-Contactos-
+# Agenda-Contactos
 La ventana principal de nuestra aplicación estará diseñada de la siguiente manera.
 
 ![](https://github.com/CAMP09/Agenda-Contactos-/blob/main/GestionContactos/img/imgInicial.png)
